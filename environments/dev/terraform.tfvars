@@ -1,1 +1,1 @@
-project="cimb-cicd-demo"
+project="cimb-cicd-dem"
